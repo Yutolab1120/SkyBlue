@@ -17,6 +17,7 @@ article{
     border: solid 1px #ffffff;/*線*/
     border-radius: 5px;/*角の丸み*/
     box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+    word-break:break-all;
 }
 textarea[type="text"]{
     resize: none;
